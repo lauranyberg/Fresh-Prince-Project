@@ -1,0 +1,20 @@
+h1 {
+    color:red;
+}
+body {
+    background-color: #b0c4de;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+p {
+    font-family: "Verdana";
+}
+<ul>
+<li>Romeo and Juliet</li>
+<li>King Arthur</li>
+<li>Hamlet</li>
+<li>Macbeth</li>
+<li>Othello</li>
+</ul>
